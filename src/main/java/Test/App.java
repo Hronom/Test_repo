@@ -10,7 +10,12 @@ public class App
     {
         // Test
         System.out.println( "Hello World!" );
-        System.out.println( 2 + 2 );
-        System.out.println( 2 * 2 );
+        int x = 15;
+        int y = 999;
+        System.out.println( x + y );
+        System.out.println( x * y );
+        System.out.println( x - y );
+        System.out.println( x / y );
+        System.out.println( x / y + " ggg!" );
     }
 }
