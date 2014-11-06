@@ -10,8 +10,6 @@ public class App
     {
         // Test
         System.out.println( "Hello World!" );
-        int x = 2;
-        int y = 2;
-        System.out.println( x + y );
+        System.out.println( 2 + 2 );
     }
 }
