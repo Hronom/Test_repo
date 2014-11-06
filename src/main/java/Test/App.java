@@ -17,5 +17,6 @@ public class App
         System.out.println( x - y );
         System.out.println( x / y );
         System.out.println( x / y + " <-ggg" );
+        System.out.println( '-' + x / y + '-' );
     }
 }
